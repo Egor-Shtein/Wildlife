@@ -219,6 +219,34 @@ h2 {
   border-radius: 0px;
   background-image: url(img/onerectangle.jpg);
 }
+.Deer {
+  position: absolute;
+  width: 52px;
+  height: 36px;
+  left: 334px;
+  top: 615px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 36px;
+  text-align: center;
+  color: #f7f7f7;
+}
+.TextForItem1 {
+  position: absolute;
+  width: 186px;
+  height: 27px;
+  left: 267px;
+  top: 661px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 27px;
+  text-align: center;
+  color: #f7f7f7;
+}
 .item2 {
   order: 2;
   flex-basis: auto;
