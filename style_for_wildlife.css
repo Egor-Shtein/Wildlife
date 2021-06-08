@@ -3,9 +3,10 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 body {
-  margin: auto;
+  margin: 0 auto;
   max-width: 1480px;
 }
+
 a {
   text-decoration: none;
   color: #f7f7f7;
@@ -20,10 +21,10 @@ input {
   overflow: visible;
 }
 header {
+  position: absolute;
   width: 1440px;
   height: 780px;
   background-image: url(assets/Rectangle.png);
-  position: absolute;
   background-color: #02160b;
 }
 .logo {
@@ -38,7 +39,7 @@ header {
   width: 155px;
   height: 60px;
   left: 205px;
-  top: 35px;
+  top: 1px;
   bottom: 700px;
   right: 1080px;
   font-family: Roboto;
