@@ -2,6 +2,9 @@ html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
 }
+@media screen and (max-width: 1280px) { div.contentblock {width: 1200px;} } 
+@media screen and (max-width: 1140px) { div.contentblock {width: 1024px;} } 
+@media screen and (max-width: 992px) { div. contentblock {width: 970px;} }
 body {
   margin: 0 auto;
   max-width: 1480px;
